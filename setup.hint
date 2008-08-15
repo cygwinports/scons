@@ -1,5 +1,5 @@
 category: Devel
-requires: cygwin python
+requires: python
 sdesc: "Python-based software construction tool"
 ldesc: "SCons is a software construction tool--that is, a superior
 alternative to the classic 'Make' build tool that we all know and love.
