@@ -1,5 +1,0 @@
-inherit distutils
-
-DESCRIPTION="Software Construction Tool"
-HOMEPAGE="http://www.scons.org/"
-SRC_URI="mirror://sourceforge/${PN}/${P}.tar.gz"

@@ -1,0 +1,15 @@
+inherit distutils
+
+NAME="scons"
+VERSION=2.2.0
+RELEASE=1
+CATEGORY="Devel"
+SUMMARY="Python-based software construction tool"
+DESCRIPTION="SCons is a software construction tool--that is, a superior
+alternative to the classic 'Make' build tool that we all know and love.
+SCons is implemented as a Python script and set of modules, and SCons
+'configuration files' are actually executed as Python scripts. This
+gives SCons many powerful capabilities not found in other software build
+tools."
+HOMEPAGE="http://www.scons.org/"
+SRC_URI="mirror://sourceforge/${PN}/${P}.tar.gz"
